@@ -3,7 +3,14 @@ kind: Template
 metadata:
   name: nd10-test-template
   title: ND10 Test template
-  description: Create a new **CRA** website project
+  description: |
+    Select the type of entity to create:
+
+    - Resource (e.g. SQL Database, S3 Bucket, ...)
+    - Component (e.g. backend service, data pipeline)
+    - API
+
+    Find more details in the (System Model)[https://backstage.io/docs/features/software-catalog/system-model] documentation.
   tags:
     - react
     - cra
