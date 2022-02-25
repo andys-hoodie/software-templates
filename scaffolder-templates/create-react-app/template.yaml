@@ -4,7 +4,6 @@ metadata:
   name: nd10-test-template
   title: ND10 Test template
   description: |
-    Update
     Select the type of entity to create:
     - Resource (e.g. SQL Database, S3 Bucket, ...)
     - Component (e.g. backend service, data pipeline)
