@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: create-react-app-template
   title: Create React App Template
-  description: Create a new CRA website project
+  description: Create a new **CRA** website project
   tags:
     - react
     - cra
