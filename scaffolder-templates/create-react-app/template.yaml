@@ -1,14 +1,15 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: nd10-test-template
-  title: ND10 Test template
+  name: angular-template
+  title: Angular Paved Road Template
   description: |
     Select the type of entity to create:
     - Resource (e.g. SQL Database, S3 Bucket, ...)
     - Component (e.g. backend service, data pipeline)
     - API
     Find more details in the [System Model](https://backstage.io/docs/features/software-catalog/system-model) documentation.
+    See [Paved Road](http://go/verily-angular) documentation for more details.
   tags:
     - react
     - cra
